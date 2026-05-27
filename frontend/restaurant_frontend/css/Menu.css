@@ -1,0 +1,19 @@
+.menu {
+  background: #fff5e8;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.welcome-text {
+  color: #666;
+  font-size: 24px;
+  margin-bottom: 70px;
+}
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 25px;
+  justify-content: center;
+  align-items: start;
+}

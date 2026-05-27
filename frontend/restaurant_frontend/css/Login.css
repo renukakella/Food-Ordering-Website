@@ -1,0 +1,41 @@
+.login {
+  padding: 60px 50px;
+  text-align: center;
+}
+
+.login h2 {
+  color: #8b0000;
+  font-size: 34px;
+  margin-bottom: 25px;
+}
+
+.login-form {
+  max-width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.login-form input {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.login-form button {
+  padding: 12px;
+  background-color: #8b0000;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.link-btn {
+  background: none;
+  border: none;
+  color: #8b0000;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 16px;
+}

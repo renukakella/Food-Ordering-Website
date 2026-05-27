@@ -1,0 +1,529 @@
+[
+{
+  "model": "app1.usersignup",
+  "pk": 2,
+  "fields": {
+    "username": "psycho",
+    "email": "psycho@gmail.com",
+    "password": "psycho"
+  }
+},
+{
+  "model": "app1.usersignup",
+  "pk": 3,
+  "fields": {
+    "username": "renuka",
+    "email": "renuka@gmail.com",
+    "password": "Renuka@123"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 1,
+  "fields": {
+    "name": "Dum Biryani",
+    "price": 180,
+    "image": "food_images/dum_birayani_O9Nab5J.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 7,
+  "fields": {
+    "name": "Pulihora",
+    "price": 100,
+    "image": "food_images/pulihora.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 8,
+  "fields": {
+    "name": "Bagara Rice",
+    "price": 120,
+    "image": "food_images/bagara_rice.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 9,
+  "fields": {
+    "name": "Prawn Biryani",
+    "price": 280,
+    "image": "food_images/PrawnBiryani.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 10,
+  "fields": {
+    "name": "Veg Thali",
+    "price": 100,
+    "image": "food_images/veg_thali.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 11,
+  "fields": {
+    "name": "Chicken Fry Piece",
+    "price": 150,
+    "image": "food_images/fry_piece.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 12,
+  "fields": {
+    "name": "Curd Rice",
+    "price": 90,
+    "image": "food_images/curd_rice.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 13,
+  "fields": {
+    "name": "Dosa",
+    "price": 70,
+    "image": "food_images/dosa_0GqRbYX.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 14,
+  "fields": {
+    "name": "Sambar Idly",
+    "price": 40,
+    "image": "food_images/sambar_idly_U41WhXB.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 15,
+  "fields": {
+    "name": "Mysore Bonda",
+    "price": 50,
+    "image": "food_images/mysore_bonda.png"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 16,
+  "fields": {
+    "name": "Puri",
+    "price": 60,
+    "image": "food_images/puri.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 17,
+  "fields": {
+    "name": "Pesarattu",
+    "price": 60,
+    "image": "food_images/pesarattu.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 18,
+  "fields": {
+    "name": "Vada",
+    "price": 40,
+    "image": "food_images/vada.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 19,
+  "fields": {
+    "name": "Upma",
+    "price": 70,
+    "image": "food_images/upma.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 20,
+  "fields": {
+    "name": "Chicken Curry",
+    "price": 120,
+    "image": "food_images/chicken_curry.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 21,
+  "fields": {
+    "name": "Paneer",
+    "price": 200,
+    "image": "food_images/paneer_PobeD5h.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 22,
+  "fields": {
+    "name": "Fish Curry",
+    "price": 180,
+    "image": "food_images/Fish_Curry.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 23,
+  "fields": {
+    "name": "Egg Curry",
+    "price": 50,
+    "image": "food_images/egg_curry.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 24,
+  "fields": {
+    "name": "Mutton Curry",
+    "price": 300,
+    "image": "food_images/mutton.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 25,
+  "fields": {
+    "name": "Mushroom",
+    "price": 170,
+    "image": "food_images/mushroom.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 26,
+  "fields": {
+    "name": "Guthu Vankaya",
+    "price": 110,
+    "image": "food_images/Gutti_Vankaya.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 27,
+  "fields": {
+    "name": "Veg Mix",
+    "price": 90,
+    "image": "food_images/vegetable-curry-recipe.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 28,
+  "fields": {
+    "name": "Butter Roti",
+    "price": 35,
+    "image": "food_images/roti.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 29,
+  "fields": {
+    "name": "Butter Naan",
+    "price": 40,
+    "image": "food_images/butter_naaan.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 30,
+  "fields": {
+    "name": "Rumali Roti",
+    "price": 40,
+    "image": "food_images/rumali_roti.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 31,
+  "fields": {
+    "name": "Parotta",
+    "price": 80,
+    "image": "food_images/parota.avif"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 32,
+  "fields": {
+    "name": "Tandoori Garlic Roti",
+    "price": 50,
+    "image": "food_images/Tandoori-Garlic-Roti-Recipe.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 33,
+  "fields": {
+    "name": "Chilli Chicken",
+    "price": 190,
+    "image": "food_images/Chilli-Garlic-Chicken.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 34,
+  "fields": {
+    "name": "Gobi Manchurian",
+    "price": 150,
+    "image": "food_images/Gobi-Manchurian-Recipe-1024x585.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 35,
+  "fields": {
+    "name": "Chicken Manchurian",
+    "price": 180,
+    "image": "food_images/chicken.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 36,
+  "fields": {
+    "name": "Crispy Corn",
+    "price": 130,
+    "image": "food_images/cc.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 37,
+  "fields": {
+    "name": "Chicken Lollipop",
+    "price": 170,
+    "image": "food_images/cl.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 38,
+  "fields": {
+    "name": "Dragon Chicken",
+    "price": 210,
+    "image": "food_images/dc.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 39,
+  "fields": {
+    "name": "Pizza",
+    "price": 260,
+    "image": "food_images/p.avif"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 40,
+  "fields": {
+    "name": "Burger",
+    "price": 130,
+    "image": "food_images/b.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 41,
+  "fields": {
+    "name": "French Fries",
+    "price": 90,
+    "image": "food_images/f.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 42,
+  "fields": {
+    "name": "Samosa",
+    "price": 60,
+    "image": "food_images/s.jpeg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 43,
+  "fields": {
+    "name": "Sandwich",
+    "price": 80,
+    "image": "food_images/sw.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 44,
+  "fields": {
+    "name": "Gulab Jamun",
+    "price": 40,
+    "image": "food_images/Gulab_Jamun.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 45,
+  "fields": {
+    "name": "Rasmalai",
+    "price": 80,
+    "image": "food_images/Rasmalai.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 46,
+  "fields": {
+    "name": "Brownie",
+    "price": 50,
+    "image": "food_images/brownie.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 47,
+  "fields": {
+    "name": "Black Forest",
+    "price": 50,
+    "image": "food_images/black_forest.png"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 48,
+  "fields": {
+    "name": "Cookies",
+    "price": 60,
+    "image": "food_images/Cookies.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 49,
+  "fields": {
+    "name": "Strawberry",
+    "price": 80,
+    "image": "food_images/strawberry.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 50,
+  "fields": {
+    "name": "Vegan Vanilla",
+    "price": 90,
+    "image": "food_images/vegan_vanilla.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 51,
+  "fields": {
+    "name": "Chocolate",
+    "price": 70,
+    "image": "food_images/chocolate.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 52,
+  "fields": {
+    "name": "Mango",
+    "price": 60,
+    "image": "food_images/mango.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 54,
+  "fields": {
+    "name": "Dry Fruit",
+    "price": 100,
+    "image": "food_images/dry_t4FTcWQ.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 55,
+  "fields": {
+    "name": "Christmas Cocktail",
+    "price": 50,
+    "image": "food_images/christmas_cocktails.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 56,
+  "fields": {
+    "name": "Blue Mocktail",
+    "price": 70,
+    "image": "food_images/blue.jpg"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 57,
+  "fields": {
+    "name": "Blackberry Lemon",
+    "price": 90,
+    "image": "food_images/Blackberry-Lemon-Mocktail.webp"
+  }
+},
+{
+  "model": "app1.food",
+  "pk": 58,
+  "fields": {
+    "name": "Lemon",
+    "price": 50,
+    "image": "food_images/lemon.jpg"
+  }
+},
+{
+  "model": "app1.reservation",
+  "pk": 1,
+  "fields": {
+    "name": "Renuka",
+    "date": "2026-05-16",
+    "time": "18:38:00",
+    "people": 1,
+    "phone": "9100426819"
+  }
+},
+{
+  "model": "app1.order",
+  "pk": 1,
+  "fields": {
+    "customer_name": "renuka",
+    "food_name": "Prawn Biryani",
+    "quantity": 5,
+    "total_price": 1400
+  }
+},
+{
+  "model": "app1.order",
+  "pk": 2,
+  "fields": {
+    "customer_name": "renuka",
+    "food_name": "Pulihora",
+    "quantity": 1,
+    "total_price": 100
+  }
+},
+{
+  "model": "app1.order",
+  "pk": 3,
+  "fields": {
+    "customer_name": "renuka",
+    "food_name": "Bagara Rice",
+    "quantity": 1,
+    "total_price": 120
+  }
+}
+]
